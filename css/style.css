@@ -1,0 +1,20 @@
+.basket{
+
+    position: relative;
+}
+.basket .icon-box{
+    font-size: 30px;
+}
+.basket .item-count{
+    position: absolute;
+    top: 0;
+    right: -8px;
+    width: 18px;
+    color: white;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: rgb(9, 76, 76);
+
+}
